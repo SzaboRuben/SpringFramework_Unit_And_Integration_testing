@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="678033f1-9600-43f2-8e49-ae64e54da2e9" name="Default Changelist" comment="Test cases for unit and integration testing using Spring framework">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/spring/di/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/spring/di/EmployeeDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/spring/di/EmployeeMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/spring/di/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/spring/di/EmployeeDaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/spring/di/EmployeeServiceIntegrationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/spring/di/EmployeeServiceRunnerIntegrationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/spring/di/EmployeeServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spring/di/AppConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spring/di/EmployeeDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spring/di/EmployeeMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spring/di/EmployeeService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/spring/di/EmployeeDaoTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/spring/di/EmployeeServiceIntegrationTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/spring/di/EmployeeServiceRunnerIntegrationTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/spring/di/EmployeeServiceTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gg7kSB8TejVJ43FsDhy1TwRKOa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager">
+    <configuration name="EmployeeDaoTest and 3 more" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringFramework_Unit_And_Integration_testing" />
+      <option name="TEST_OBJECT" value="pattern" />
+      <patterns>
+        <pattern testClass="spring.di.EmployeeDaoTest" />
+        <pattern testClass="spring.di.EmployeeServiceIntegrationTest" />
+        <pattern testClass="spring.di.EmployeeServiceRunnerIntegrationTest" />
+        <pattern testClass="spring.di.EmployeeServiceTest" />
+      </patterns>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.EmployeeDaoTest and 3 more" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="678033f1-9600-43f2-8e49-ae64e54da2e9" name="Default Changelist" comment="" />
+      <created>1598524525116</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598524525116</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Test cases for unit and integration testing using Spring framework" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test cases for unit and integration testing using Spring framework" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="428" y="121" key="CommitChangelistDialog2" timestamp="1598526560708">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="428" y="121" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1598526560708" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1598526637681">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598526637681" />
+    <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1598526237794">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1598526237794" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1598526148416">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598526148416" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1598526148416">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598526148416" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1598526148415">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598526148415" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1598526148416">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598526148416" />
+    <state x="463" y="166" key="SettingsEditor" timestamp="1598526245081">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="166" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1598526245081" />
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1598526305537">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1598526305537" />
+    <state x="667" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1598524527869">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598524527869" />
+  </component>
+</project>
